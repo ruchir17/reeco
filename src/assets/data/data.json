@@ -1,0 +1,48 @@
+[
+  {
+    "image": "/images/Avocado Hass.jpg",
+    "id": 1,
+    "quantity": 1,
+    "name": "Product Title 1",
+    "price": 10,
+    "brand": "Brand 1",
+    "status": ""
+  },
+  {
+    "image": "/images/Avocado Hass.jpg",
+    "id": 2,
+    "quantity": 2,
+    "name": "Product Title 2",
+    "price": 20,
+    "brand": "Brand 2",
+    "status": ""
+  },
+  {
+    "image": "/images/Avocado Hass.jpg",
+    "id": 3,
+    "quantity": 3,
+    "name": "Product Title 3",
+    "price": 30,
+    "brand": "Brand 3",
+    "status": ""
+  },
+  {
+    "image": "/images/Avocado Hass.jpg",
+    "id": 4,
+    "quantity": 4,
+    "name": "Product Title 4",
+    "price": 40,
+    "brand": "Brand 4",
+    "status": ""
+  },
+  {
+    "image": "/images/Avocado Hass.jpg",
+    "id": 5,
+    "quantity": 5,
+    "name": "Product Title 5",
+    "price": 50,
+    "brand": "Brand 5",
+    "status": ""
+  }
+]
+  

@@ -1,0 +1,39 @@
+/* Orders CSS  */
+.header-container {
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+.container-grid {
+    padding: 15px;
+    margin-left: 50px;
+}
+.order-tracking{
+    font-size: 0.7rem;
+}
+
+.order-number-container-grid{
+    display: flex;
+}
+.order-number{
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.back-button{
+    color: green !important;
+    border :1px solid green !important; 
+    border-radius: 20px !important;
+
+}
+.approve-button{
+    color: #ffffff !important;
+    background-color: green !important;
+    border :1px solid green !important; 
+    border-radius: 20px !important;
+
+}
+.button-grid{
+    display: flex;
+    justify-content: space-evenly;
+}

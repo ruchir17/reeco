@@ -1,0 +1,21 @@
+/* Orders CSS  */
+.OrderDetailsHeader-container {
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+.OrderDetailsHeader-container-grid {
+    display: flex ;
+    align-items:"center";
+}
+.header-content {
+    border-right: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+}
+.OrderDetailsHeader-title{
+    font-weight: bold;
+
+}
+.OrderDetailsHeader-subtext{
+    font-size: 0.7rem;
+}
+

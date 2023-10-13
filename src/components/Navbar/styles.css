@@ -1,0 +1,83 @@
+/* Navbar CSS  */
+.navbar {
+    background-color: #034110;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .logo {
+    text-decoration: none;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+    margin-right: 60px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .tabs {
+    display: flex;
+    margin-left: 50px;
+  }
+  
+  .tab {
+    text-decoration: none;
+    background-color: transparent;
+    color: white;
+    border: none;
+    margin-right: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .tab:focus {
+    font-weight: bolder;
+    color : 'black'
+  }
+
+  .tab:current {
+    font-weight: bolder;
+    color : 'black'
+  }
+  
+  .icons {
+    display: flex;
+    align-items: center;
+  }
+  
+  .icon {
+    font-size: 1.5rem;
+    margin-right: 60px;
+    cursor: pointer;
+  }
+  
+  .user-info {
+    margin-right: 20px;
+    cursor: pointer;
+    position: relative;
+  }
+  
+  .dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    background-color: #868383;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dropdown p {
+    margin: 0;
+    padding: 5px;
+    cursor: pointer;
+  }
+  
+  .dropdown p:hover {
+    font-weight: bolder;
+  }
